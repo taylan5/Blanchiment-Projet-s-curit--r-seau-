@@ -1,8 +1,8 @@
 # Blanchiment-Projet sécurité reseau
 
 Notre sujet va traiter du blanchiment d’argent « sale » par un criminel/hacker.
-Au préalable l’argent « sale » à moins de valeur que l’argent « propre ». Cette argent « sale » peut provenir de :
-•	De la vente de drogue ou tout autre produit illicite
+Au préalable l’argent « sale » à moins de valeur que l’argent « propre ». Cet argent « sale » peut provenir :
+• De la vente de drogue ou tout autre produit illicite
 •	D’un vol
 •	Tous réseaux criminels par exemple les vendeurs d’arme à feu.
 •	Par l’utilisateur de carte bancaire volée.
