@@ -12,9 +12,10 @@ L’un des moyens de blanchir de l’argent serait de trouver une personne qui g
 Avec ce système, un criminel peut espérer blanchir entre 500 et 30000 euros. En effet d’après la française des jeux : les paiements d'un lot d'une valeur strictement supérieure à 3000 € ne peuvent être effectués que sur présentation de document(s) d'identité. Les gros lots d'une valeur inférieure ou égale à 30 000 € sont payables en Point de Vente par virement bancaire.
 L’inconvénient de cette méthode c’est de trouver une personne qui gagne de l’argent aux jeux du hasard et il faut aussi que la personne en question accepte l’échange.
 
-Idées à développer :\ 
+Idées à développer : 
+
 Bijou => Belgique\
 Argent => rapatriement de l’argent dans un pays du maghreb ou autre pays\ 
 Société écran\
 Paradis fiscaux\
-Fraude à la TVA\ 
+Fraude à la TVA 
