@@ -14,8 +14,8 @@ L’inconvénient de cette méthode c’est de trouver une personne qui gagne de
 
 Idées à développer : 
 
-Bijou => Belgique\
-Argent => rapatriement de l’argent dans un pays du maghreb ou autre pays\ 
-Société écran \
-Paradis fiscaux \
-Fraude à la TVA \
+*Bijou => Belgique
+*Argent => rapatriement de l’argent dans un pays du maghreb ou autre pays 
+*Société écran
+*Paradis fiscaux
+*Fraude à la TVA
