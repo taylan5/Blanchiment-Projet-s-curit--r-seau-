@@ -16,6 +16,6 @@ Idées à développer :
 
 Bijou => Belgique\
 Argent => rapatriement de l’argent dans un pays du maghreb ou autre pays\ 
-Société écran\
-Paradis fiscaux\
+Société écran
+Paradis fiscaux
 Fraude à la TVA 
