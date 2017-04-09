@@ -10,7 +10,7 @@ Pour ce transfert, la personne doit remplir le formulaire pour l’envoyer dans 
 
 Lorsque la personne remplit le formulaire, elle doit indiquer une adresse qui est soit obligatoirement valide au Maroc, le nom et prénom du destinataire peut être fictif.
 Le but de ce stratagème est que personne ne récupère l’argent donc un mois plus tard la personne qui a envoyé l’argent prétend s’être trompé d’adresse  c’est pourquoi il demande à récupérer son argent. Mais cette demande de récupération va lui couter 15 euros.
-L’argent étant transfert au Maroc revient en France pour le restituer à son propriétaire. Une fois que l’argent est reçu la poste envoie au propriétaire une lettre cheque du montant de 3200 euros. 
+L’argent étant transfert au Maroc revient en France pour le restituer à son propriétaire. Une fois que l’argent est reçu la poste envoie au propriétaire une lettre cheque d'un montant de 3200 euros. 
 
 Le cheque sera émis par la banque postale qui est la propriété exclusive de l’état Français.Ce cheque étant émis par la banque postale cela n’éveilleras pas de soupçon.  
 
