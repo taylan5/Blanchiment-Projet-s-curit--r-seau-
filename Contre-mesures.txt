@@ -1,8 +1,14 @@
-A partir des techniques de blanchiment d'argent que nous avons pu découvrir, nous allons nous intéressé sur les contre_mesures existantes.
+A partir des techniques de blanchiment d'argent que nous avons pu découvrir, nous allons nous
+intéressé sur les contre_mesures existantes.
 
-Au niveau de la loi française, l'utilisation d'espèces pour une transaction est limitée à 1000€ pour le paiement d'un professionnel et 1500€ entre particuliers, 1500€ pour un salaire, 10 000€ pour une acquisition immobilière (1), de ce fait les transactions nécessitants un montant supérieur doivent passer sous le contrôle par expemle d'une banque.
+Au niveau de la loi française, l'utilisation d'espèces pour une transaction est limitée à 1000€
+pour le paiement d'un professionnel et 1500€ entre particuliers, 1500€ pour un salaire, 10 000€
+pour une acquisition immobilière (1), de ce fait les transactions nécessitants un montant supérieur
+doivent passer sous le contrôle par expemle d'une banque.
 
-Ces limites imposent donc lors de l'acquisitiion d'argent "sales" de recourir à des techniques de blanchiment pour pouvoir utiliser sainement l'argent "sales" acquis par la vente de drogue ou autres produits illicites, ou d'un vol.
+Ces limites imposent donc lors de l'acquisitiion d'argent "sales" de recourir à des techniques de 
+blanchiment pour pouvoir utiliser sainement l'argent "sales" acquis par la vente de drogue ou autres
+produits illicites, ou d'un vol.
 
 
 
