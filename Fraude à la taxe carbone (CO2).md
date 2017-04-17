@@ -22,3 +22,5 @@ Apres cette énorme arnaque, le 9 juin 2009, le ministère des finances prenait 
 
 La plupart des escrocs avaient montés plusieurs sociétés en Europe qui leur permettaient de faire tourner les stocks de CO2 en circuit fermé (Par exemple une société en France, en Allemagne et en Belgique). Ils s’achetaient et se revendaient le gaz carbonique à eux même. Et à chaque fois qu’ils passaient par la France, ils détournaient la TVA c’est ce qu’on appelle le système du carrousel, il permet de multiplier les gains à toutes vitesses et de façon gigantesque.
 
+Nous avons expliqué cette arnaque pour informer les personnes qui liront ce travail qu'une arnaque de cette evengure peut à nouveau arriver.
+
