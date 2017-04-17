@@ -1,5 +1,7 @@
 # Blanchiment-Projet sécurité reseau
 
+Chaque année dans le monde près de 1200 milliards d'euros d'argent sale / noir sont blanchis dont 70% par les marchés financiers. Cette argent est introduit dans l'économie d'un pays par des montages financiers.
+
 Notre sujet va traiter du blanchiment d’argent « sale » par un criminel/hacker.
 Au préalable l’argent « sale » a moins de valeur que l’argent « propre ». Cet argent « sale » peut provenir :
 * De la vente de drogue ou tout autre produit illicite
