@@ -14,8 +14,8 @@ Elle pourrait meme lancer une enquete.
 
 Le gérant de portefeuille va donc procéder de la manière suivante :
 
-Etape 1 : il achète 1000 actions X à 50 000 euros et les revend aussitot au meme prix.\n
-Etape 2 : quelques instants plus tard, le prix des actions X ayant diminué, il achète 1000 actions X à 49 950 euros et les revend aussitot au meme prix.\n
+Etape 1 : il achète 1000 actions X à 50 000 euros et les revend aussitot au meme prix.  
+Etape 2 : quelques instants plus tard, le prix des actions X ayant diminué, il achète 1000 actions X à 49 950 euros et les revend aussitot au meme prix.  
 Etape 3 : le gérant n'a ni gagné ni perdu d'argent. Pourtant, il va s'arranger sur les dates et les affectations de ces opérations de la manière suivante :
 
 * Il attribue l'achat des 1000 actions à 49 950 euros et la vente des 1000 actions 50 000 euros au client Jacques. Celui-ci a donc un gain de 50 000 euros.
