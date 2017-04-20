@@ -1,14 +1,24 @@
-A partir des techniques de blanchiment d'argent que nous avons pu découvrir, nous allons nous
-intéressé sur les contre_mesures existantes.
+A partir des techniques de blanchiment d'argent que nous avons pu découvrir, nous allons nous intéressé sur les contre_mesures existantes.
+Au niveau de la loi française, l'utilisation d'espèces pour une transaction est limitée à 1000€ pour le paiement d'un professionnel et 1500€ entre particuliers, 1500€ pour un salaire, 10 000€ pour une acquisition immobilière (1), de ce fait les transactions nécessitants un montant supérieur doivent passer sous le contrôle par expemle d'une banque.
 
-Au niveau de la loi française, l'utilisation d'espèces pour une transaction est limitée à 1000€
-pour le paiement d'un professionnel et 1500€ entre particuliers, 1500€ pour un salaire, 10 000€
-pour une acquisition immobilière (1), de ce fait les transactions nécessitants un montant supérieur
-doivent passer sous le contrôle par expemle d'une banque.
+Ces limites imposent donc lors de l'acquisitiion d'argent "sales" de recourir à des techniques de blanchiment pour pouvoir utiliser sainement l'argent "sales" acquis par la vente de drogue ou autres produits illicites, ou d'un vol.
+En France l'organisme en charge contre la lutte contre le blanchiment d'argent est TRACFIN (acronyme de « Traitement du renseignement et action contre les circuits financiers clandestins ») qui est un organisme du ministère de l'Économie et des Finances, chargé de la lutte contre le blanchiment d'argent.(2)
 
-Ces limites imposent donc lors de l'acquisitiion d'argent "sales" de recourir à des techniques de 
-blanchiment pour pouvoir utiliser sainement l'argent "sales" acquis par la vente de drogue ou autres
-produits illicites, ou d'un vol.
+Les transactions en masse par la Française Des Jeux peut donner l'idée de blanchir de l'argent, et c'est évidemment une technique répandue pour blanchir une somme moyenne dite entre 50 000€ et 200 000€.
+Bien que des campagnes de sensibilisation du personnels sont mises en place, ainsi que des précautions d'usage comme la déclaration lors de gains supérieur à 5000€, pour lutter contre le phénomène de blanchiment la FDJ avec son expertise dans les jeux et IBM pour celui dans le traitement de données en masse, s'associent pour utiliser le Big Data dans la luttre contre le blanchiment d'argent.
+En étudiant le comportement des joueurs à travers différents critères comme la fréquence, le lieu, ainsi que les montants des transactions, ce système pourrait déceler des comportement suspects ou addictifs.(3)(4)
+
+Les casinos parait également une cible idéale pour cette fraude, que ce soit les casinos en ligne ou terrestre, tous deux sont sujets d'outils pour blanchir de l'argent, mais même si beaucoup de casinos en ligne sont basés dans des paradis fiscaux, elles n'échappent pas au contrôle permanent des transactions pouvant nuir à leur intégrité.
+C'est pour cela que des contrôles beaucoup plus rigoureux ont été mis en place pour contrôler les identités des joueurs en ligne commme la demande de pièces justificatives valables de la provenance des fonds ou même des pièces d'identités.(5)
+Pour les casinos terrestre toute opération dépassant les 2 000€ est sujet à l'enregistrement des identités, tout cela sans compter le système de surveillance et la vigilence du personnel pour lutter contre la fraude.
+
+Autre système basé sur la surveillance du trafic est celui du bitcoin, on rappelle que le bitcoin est une monnaie virtuelle mondiale permettant d'effectuer des transactions anonymes. La commission européenne a établi un groupe de surveillance afin de surveiller ce trafic et dans le besoin où cela se ferait sentir, elle prévoir la mise en place de platforme d'échange mettant fin au côté anonyme de la procédure, mais pour le moment cela reste une idée.(6)
+
+Pour lutter les fraudes à la TVA liée à l'utilisation de logiciels permettant la dissimulation de recettes, la loi de finances pour 2016 instaure l'obligation à partir de 2018 pour les commerçants et autres professionnels assujettis à la TVA d'enregistrer les paiements de leurs clients au moyen d'un logiciel de comptabilité ou d'un système de caisse sécurisés et certifiés.
+À partir du 1er janvier 2018, il devient obligatoire d'utiliser un logiciel de gestion ou d'un système de caisse qui satisfait les conditions d'inaltérabilité, de sécurisation, de conservation et d'archivage des données, qui seront attestées par un certificat délivré par un organisme accrédité ou par une attestation individuelle délivrée par l'éditeur.
+Des sanctions seront appliquées en cas de contrôle négatifs du logiciel utilisé.
+Cette méthode pourrait mettre fin à la fraude à la TVA, de plus, des contrôles plus rigoureux sont mises en place et des sanctions plus sévères seront appliquées pour tous les sujets liés à la fraude. (7)
+
 
 
 
@@ -16,3 +26,10 @@ produits illicites, ou d'un vol.
 
 Références:
 (1)https://www.service-public.fr/particuliers/vosdroits/F10999
+(2)https://fr.wikipedia.org/wiki/TRACFIN
+(3)http://www.lemonde.fr/economie/article/2016/10/04/jeux-le-big-data-au-secours-de-la-lutte-contre-le-blanchiment-d-argent_5007828_3234.html
+(4)http://www.communique-presse-jeu.com/ads/la-fdj-et-ibm-vont-traquer-la-fraude-dans-les-jeux/
+(5)http://www.casino-legal-france.org/lutte-contre-blanchiment-argent.html
+(6)http://www.europarl.europa.eu/news/fr/news-room/20160524IPR28821/surveillance-des-monnaies-virtuelles-pour-combattre-blanchiment-et-terrorisme
+(7)https://www.service-public.fr/professionnels-entreprises/actualites/A10279
+
